@@ -1,4 +1,3 @@
-```markdown
 # CMAC Library, build using Gpt4
 
 This library provides an implementation of the CMAC (Cipher-based Message Authentication Code) algorithm, which is a versatile cryptographic checksum used for data integrity and authenticity.
