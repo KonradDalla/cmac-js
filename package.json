@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "name": "cmac",
+  "version": "1.0.0",
+  "main": "cmac.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Konrad Dalla and chatGPT4+",
+  "license": "ISC",
+  "description": "AI generated module that implement CMAC algorithm from NIST."
+}
