@@ -1,5 +1,3 @@
-Sure, here is the README in a code block:
-
 ```markdown
 # CMAC Library, build using Gpt4
 
